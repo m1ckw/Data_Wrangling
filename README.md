@@ -1,7 +1,7 @@
 # SIT220 Data Wrangling
 
 ### Deakin University Computer Science Unit
-Data wrangling is the process of preparing the raw data appropriately for modelling purposes. 
+Data wrangling is the process of preparing raw data appropriately for modelling purposes. 
 
 In this unit we learned various data wrangling methodologies and programming techniques to perform them. 
 This includes programming in Python for performing various data wrangling tasks, data extraction methods from different sources, 
