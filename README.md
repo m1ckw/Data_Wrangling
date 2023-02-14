@@ -50,11 +50,11 @@ techniques for maintaining data privacy and exercising ethics in data manipulati
 ### Modules Covered/Completed within the Unit
  <ol>
   <li><b>Introduction to Python and Jupyter</b></li>
-  <li><b>Working with Vectors:</b>Transformation, filtering, aggregation, and visualisation of one-dimensional data</li>
-  <li><b>Working with Matrices:</b>Wrangling, aggregating, and visualising higher-dimensional data, selecting and extracting features.</li>
-  <li><b>Data Frames & Processing Heterogenous Data:</b>Aggregating and visualising grouped data, clustering, handling missing data and outliers.</li>
-  <li><b>Tableau & Power BI:</b>Data exploration and visualisation.</li>
-  <li><b>Web Scraping:</b>Working with text and other dirty and unstructured data.</li>
-  <li><b>Modelling Functional Relationships:</b>Classification and regression (practical machine learning).</li>
+  <li><b>Working with Vectors: </b>Transformation, filtering, aggregation, and visualisation of one-dimensional data</li>
+  <li><b>Working with Matrices: </b>Wrangling, aggregating, and visualising higher-dimensional data, selecting and extracting features.</li>
+  <li><b>Data Frames & Processing Heterogenous Data: </b>Aggregating and visualising grouped data, clustering, handling missing data and outliers.</li>
+  <li><b>Tableau & Power BI: </b>Data exploration and visualisation.</li>
+  <li><b>Web Scraping: </b>Working with text and other dirty and unstructured data.</li>
+  <li><b>Modelling Functional Relationships: </b>Classification and regression (practical machine learning).</li>
 </ol> 
 
