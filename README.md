@@ -1,4 +1,4 @@
-# SIT220 Data Wrangling
+# Data Wrangling
 
 ### Deakin University Computer Science Unit
 Data wrangling is the process of preparing raw data appropriately for modelling purposes. 
